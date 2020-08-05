@@ -1,4 +1,4 @@
-#GuLoader AntiVM Detection Tool
+# GuLoader AntiVM Detection Tool
 
 The tool has been created from the code of the GuLoader sample sha256 25018a8ff2a535ed05ebe8a1d2158a79dbeb53fc0be67d4e788bc936cb551b6d without modifications, to avoid modifying its behavior. 
 
